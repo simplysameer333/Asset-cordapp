@@ -74,3 +74,4 @@ docs/virtualenv/
 .idea/
 clients/bin/
 **/bin/*
+.vscode/settings.json
