@@ -73,4 +73,4 @@ docs/virtualenv/
 .vscode/tasks.json
 .idea/
 clients/bin/
-bin/
+**/bin/*
