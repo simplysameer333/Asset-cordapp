@@ -1,14 +1,11 @@
 <p align="center">
-  <img src="https://www.corda.net/wp-content/uploads/2016/11/fg005_corda_b.png" alt="Corda" width="500">
+  <img src="https://d1.awsstatic.com/partner-network/QuickStart/datasheets/corda-blockchain-architecture-on-aws.c64c5b243a62f2c9efde32e0cc337c045127fda2.png" alt="Corda AWS" width="500">
 </p>
 
 # CorDapp Template - Java
 
 Welcome to the Java CorDapp template. The CorDapp template is a stubbed-out CorDapp that you can use to bootstrap 
 your own CorDapps.
-
-**This is the Java version of the CorDapp template. The Kotlin equivalent is 
-[here](https://github.com/corda/cordapp-template-kotlin/).**
 
 # Pre-Requisites
 
